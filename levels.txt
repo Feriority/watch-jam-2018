@@ -1,0 +1,38 @@
+Walk down hallway, w/ red key
+Maze
+Paint key
+Paint door
+Add color filter
+RGB slider?
+Stroop Effect (name vs color)
+Throw key at door?
+Color filter on light source?
+Key on ground is gun, shoot door (problem sleuth style)
+Door is enemy, "attack" with key (which looks like gun on ground)
+
+
+
+
+Mechanical requirements:
+Basic FPS movement
+Pick up some items (only hold one)
+Drop items/Swap items
+Use item on other item (key on door)(paint on key)
+Restart level
+Camera overlays (color filter level)
+RGB slider control for an item?  Maybe numeric input?
+Main menu / Level select
+- Level select with only available levels
+
+
+
+Asset requirements:
+Wall/floor textures (can dummy w/ tron)
+Stock scifi door (red, white) (Openable!)
+ - Modified w/ text for stroop effect?
+Stock scifi cardkey (red, white)
+ - Modified w/ text for stroop effect?
+Paint (red)
+Visor (for filter level)
+Gun (problem sleuth)
+Thing w/ color filter for light source?
